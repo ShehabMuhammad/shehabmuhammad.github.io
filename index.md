@@ -6,11 +6,9 @@
       </a>      
       <ol style="float:right;display:inline;height:5vh;padding:5px;">
       <li> 
-        <a style="display:inline;" href="https://shehabmuhammad.github.io/Game-Of-Cards/Game-Of-Cards.html">
-        Game Of Cards
-        </a>
+        <a style="display:inline;" href="https://shehabmuhammad.github.io/Game-Of-Cards/Game-Of-Cards.html"> Game Of Cards </a>
         
-        </li>
+        <li>
         <li><a href="https://shehabmuhammad.github.io/make-a-test/test-me.html">
         make a test
         </a></li>
