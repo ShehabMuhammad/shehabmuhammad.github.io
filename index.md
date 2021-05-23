@@ -2,7 +2,7 @@
   <head> 
     <title> Welcome </title>
     <style>
-      a {float:right; margin:5vh;}
+      a {float:right; margin:10vh !important;}
       
       </style>
     </head>
