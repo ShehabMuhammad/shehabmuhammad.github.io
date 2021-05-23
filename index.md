@@ -1,14 +1,14 @@
 <html>
   <head> 
     <style>
-      a {float:left;}
+      a {float:right; margin-right:10px;}
       
       </style>
     </head>
   <body>
-    <header style="width:100%;position:absolute;top:0px;float:left;left:0px;right:0px;height:5vh;">
+    <header style="width:100%;position:absolute;top:0px;float:left;left:0px;right:0px;height:10vh;">
       
-      <a style="padding:10px;" href="https://shehabmuhammad.github.io" style="font-size:24px;color:#333;">
+      <a style="padding:10px;" href="https://shehabmuhammad.github.io" style="color:#333;">
       Home
       </a>     
 
