@@ -5,15 +5,16 @@
       Home
       </a> 
       
-      <li styl="float:right;display:inline;height:5vh;padding:5px;">
+      <ul style="float:right;display:inline;height:5vh;padding:5px;">
       <a style="display:inline;" href="https://shehabmuhammad.github.io/Game-Of-Cards/Game-Of-Cards.html">
         Game Of Cards
         </a>
         <a href="https://shehabmuhammad.github.io/make-a-test/test-me.html">
         make a test
         </a>
-      </li><div>
+      </ul><div>
     </header>
+      
     <h1>Welcome</h1>
     
   </body>
