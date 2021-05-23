@@ -1,5 +1,6 @@
 <html>
   <head> 
+    <title> Welcome </title>
     <style>
       a {float:right; margin-right:10px;}
       
