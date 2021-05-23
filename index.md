@@ -7,7 +7,7 @@
       </style>
     </head>
   <body>
-    <header style="width:100%;position:absolute;top:0px;float:left;left:0px;right:0px;height:10vh;">
+    <header style="width:100%;position:absolute;top:0px;left:0px;right:0px;height:10vh;">
       
       <div style="float:left;margin-left:3vw;padding:10px;">
       <a  href="https://shehabmuhammad.github.io" style="color:#333;">
