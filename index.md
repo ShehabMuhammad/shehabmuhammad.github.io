@@ -6,8 +6,7 @@
       </style>
     </head>
   <body>
-    <div style="width:100%;position:absolute;top:0px;float:left;left:0px;right:0px;height:5vh;">
-    <div> 
+    <header style="width:100%;position:absolute;top:0px;float:left;left:0px;right:0px;height:5vh;">
       
       <a style="padding:10px;" href="https://shehabmuhammad.github.io" style="font-size:24px;color:#333;">
       Home
@@ -18,7 +17,7 @@
   <a style="display:inline;" href="https://shehabmuhammad.github.io/Game-Of-Cards/Game-Of-Cards.html"> Game Of Cards </a> 
         <a style="display:inline;" href="https://shehabmuhammad.github.io/make-a-test/test-me.html"> make a test </a> 
       
-      </div>    </div>
+         </header>
       
       
     <h1>Welcome</h1>
