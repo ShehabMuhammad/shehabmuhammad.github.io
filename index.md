@@ -8,7 +8,7 @@
   <body>
     <header style="width:100%;position:absolute;top:0px;float:left;left:0px;right:0px;height:10vh;">
       
-      <a style="padding:10px;" href="https://shehabmuhammad.github.io" style="color:#333;">
+      <a style="float:left;padding:10px;" href="https://shehabmuhammad.github.io" style="color:#333;">
       Home
       </a>     
 
