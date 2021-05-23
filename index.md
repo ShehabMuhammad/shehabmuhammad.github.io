@@ -2,21 +2,23 @@
   <head> 
     <style>
       a {float:left;}
+      
       </style>
     </head>
   <body>
     <div style="width:100%;position:absolute;top:0px;float:left;left:0px;right:0px;height:5vh;">
-    <div> <a href="https://shehabmuhammad.github.io" style="font-size:24px;color:#333;">
+    <div> 
+      
+      <a style="padding:10px;" href="https://shehabmuhammad.github.io" style="font-size:24px;color:#333;">
       Home
       </a>     
 
 
-      <ul style="float:right;display:inline;height:5vh;padding:5px;">
         
-      <li>  <a style="display:inline;" href="https://shehabmuhammad.github.io/Game-Of-Cards/Game-Of-Cards.html"> Game Of Cards </a>  </li>
-      <li>  <a style="display:inline;" href="https://shehabmuhammad.github.io/make-a-test/test-me.html"> make a test </a>  </li>
+  <a style="display:inline;" href="https://shehabmuhammad.github.io/Game-Of-Cards/Game-Of-Cards.html"> Game Of Cards </a> 
+        <a style="display:inline;" href="https://shehabmuhammad.github.io/make-a-test/test-me.html"> make a test </a> 
       
-      </ul> </div>    </div>
+      </div>    </div>
       
       
     <h1>Welcome</h1>
