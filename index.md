@@ -9,7 +9,7 @@
   <body>
     <header style="width:100%;position:absolute;top:0px;float:left;left:0px;right:0px;height:10vh;">
       <div style="float:left;">
-      <a style="float:left !important;padding:10px;" href="https://shehabmuhammad.github.io" style="color:#333;">
+      <a style="float:left !important;padding:10px;margin-left:20px;" href="https://shehabmuhammad.github.io" style="color:#333;">
       Home
       </a> </div>     
 
